@@ -4,15 +4,16 @@ import 'firebase/compat/auth';
 
 import 'firebase/compat/database';
 
+
 const firebaseConfig = {
-  apiKey: "AIzaSyAWgx6nhLkj3_b29ABD5bptm1T9TZNd85M",
-  authDomain: "letmeask-26de7.firebaseapp.com",
-  databaseURL: "https://letmeask-26de7-default-rtdb.firebaseio.com",
-  projectId: "letmeask-26de7",
-  storageBucket: "letmeask-26de7.appspot.com",
-  messagingSenderId: "474783895073",
-  appId: "1:474783895073:web:4db09ee510c08bc4401d60",
-  measurementId: "G-CTEPV9VVS5"
+  apiKey: "AIzaSyDbwgUIPDJKQMFbgAr7K9VTZfA7Eb9ja2Y",
+  authDomain: "projeto-js-dc398.firebaseapp.com",
+  databaseURL: "https://projeto-js-dc398-default-rtdb.firebaseio.com",
+  projectId: "projeto-js-dc398",
+  storageBucket: "projeto-js-dc398.appspot.com",
+  messagingSenderId: "843274748351",
+  appId: "1:843274748351:web:6e720cfbb36d836565a10a",
+  measurementId: "G-YJY7WK8VS4"
 };
 
 firebase.initializeApp(firebaseConfig);
